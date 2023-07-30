@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\piedr\\source\\repos\\POO\\POO\\POO.csproj",
+      "projectUniqueName": "D:\\Estudo\\C# udemy\\POO C#\\POO\\POO.csproj",
       "projectName": "POO",
-      "projectPath": "C:\\Users\\piedr\\source\\repos\\POO\\POO\\POO.csproj",
+      "projectPath": "D:\\Estudo\\C# udemy\\POO C#\\POO\\POO.csproj",
       "packagesPath": "C:\\Users\\piedr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\piedr\\source\\repos\\POO\\POO\\obj\\",
+      "outputPath": "D:\\Estudo\\C# udemy\\POO C#\\POO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\piedr\\AppData\\Roaming\\NuGet\\NuGet.Config",
