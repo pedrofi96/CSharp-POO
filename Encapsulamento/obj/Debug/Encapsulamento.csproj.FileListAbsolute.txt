@@ -1,0 +1,8 @@
+C:\Users\piedr\source\repos\POO\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+C:\Users\piedr\source\repos\POO\Encapsulamento\bin\Debug\Encapsulamento.exe
+C:\Users\piedr\source\repos\POO\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\piedr\source\repos\POO\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\piedr\source\repos\POO\Encapsulamento\obj\Debug\Encapsulamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\piedr\source\repos\POO\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\piedr\source\repos\POO\Encapsulamento\obj\Debug\Encapsulamento.exe
+C:\Users\piedr\source\repos\POO\Encapsulamento\obj\Debug\Encapsulamento.pdb

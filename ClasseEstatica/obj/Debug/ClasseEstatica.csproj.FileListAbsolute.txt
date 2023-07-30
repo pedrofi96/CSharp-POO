@@ -1,0 +1,8 @@
+C:\Users\piedr\source\repos\POO\ClasseEstatica\bin\Debug\ClasseEstatica.exe.config
+C:\Users\piedr\source\repos\POO\ClasseEstatica\bin\Debug\ClasseEstatica.exe
+C:\Users\piedr\source\repos\POO\ClasseEstatica\bin\Debug\ClasseEstatica.pdb
+C:\Users\piedr\source\repos\POO\ClasseEstatica\obj\Debug\ClasseEstatica.csproj.AssemblyReference.cache
+C:\Users\piedr\source\repos\POO\ClasseEstatica\obj\Debug\ClasseEstatica.csproj.SuggestedBindingRedirects.cache
+C:\Users\piedr\source\repos\POO\ClasseEstatica\obj\Debug\ClasseEstatica.csproj.CoreCompileInputs.cache
+C:\Users\piedr\source\repos\POO\ClasseEstatica\obj\Debug\ClasseEstatica.exe
+C:\Users\piedr\source\repos\POO\ClasseEstatica\obj\Debug\ClasseEstatica.pdb

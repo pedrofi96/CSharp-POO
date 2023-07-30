@@ -1,0 +1,15 @@
+C:\Users\piedr\source\repos\POO\POO\bin\Debug\net7.0\POO.exe
+C:\Users\piedr\source\repos\POO\POO\bin\Debug\net7.0\POO.deps.json
+C:\Users\piedr\source\repos\POO\POO\bin\Debug\net7.0\POO.runtimeconfig.json
+C:\Users\piedr\source\repos\POO\POO\bin\Debug\net7.0\POO.dll
+C:\Users\piedr\source\repos\POO\POO\bin\Debug\net7.0\POO.pdb
+C:\Users\piedr\source\repos\POO\POO\obj\Debug\net7.0\POO.csproj.AssemblyReference.cache
+C:\Users\piedr\source\repos\POO\POO\obj\Debug\net7.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piedr\source\repos\POO\POO\obj\Debug\net7.0\POO.AssemblyInfoInputs.cache
+C:\Users\piedr\source\repos\POO\POO\obj\Debug\net7.0\POO.AssemblyInfo.cs
+C:\Users\piedr\source\repos\POO\POO\obj\Debug\net7.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\piedr\source\repos\POO\POO\obj\Debug\net7.0\POO.dll
+C:\Users\piedr\source\repos\POO\POO\obj\Debug\net7.0\refint\POO.dll
+C:\Users\piedr\source\repos\POO\POO\obj\Debug\net7.0\POO.pdb
+C:\Users\piedr\source\repos\POO\POO\obj\Debug\net7.0\POO.genruntimeconfig.cache
+C:\Users\piedr\source\repos\POO\POO\obj\Debug\net7.0\ref\POO.dll
